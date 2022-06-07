@@ -40,7 +40,8 @@
       }
     ],
     "uniqCompNum": 14,
-    "versionPublish": "5.3.0"
+    "versionPublish": "5.3.0",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
